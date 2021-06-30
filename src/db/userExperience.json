@@ -1,0 +1,10 @@
+[
+    {
+        "id": "1",
+        "title": "Titulo",
+        "description": "Lorem Ipsum",
+        "room": "Sala Interactiva a la que pertenece",
+        "imgAPI": "Imagen relacionada de Origen Externo",
+        "img": "Subir la imagen"
+    }
+]
