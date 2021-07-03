@@ -10,7 +10,7 @@ Debes contar en tu pc con `NPM` y `Node.js` para instalarlos ingresa [aquí](htt
 Para clonar este repositorio realiza el siguiente comando:
 
 ```bash
-$ git clone https://github.com/j-roma/ep-backend.git 
+$ git clone https://github.com/j-roma/ep-apirest.git 
 ```
 ingresa a la carpeta donde se clono el repositorio
 
